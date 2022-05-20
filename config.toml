@@ -1,0 +1,8 @@
+baseURL = 'https://manual-udcloud.github.io'
+languageCode = 'ja'
+defaultContentLanguage = "ja"
+hasCJKLanguage = true
+title = 'UD CLOUD Manuel'
+theme = 'learn'
+canonifyurls = true
+enableGitInfo = true
