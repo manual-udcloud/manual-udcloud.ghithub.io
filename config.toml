@@ -5,4 +5,5 @@ hasCJKLanguage = true
 title = 'UD CLOUD Manuel'
 theme = 'learn'
 canonifyurls = true
+publishDir = "docs"
 enableGitInfo = true
